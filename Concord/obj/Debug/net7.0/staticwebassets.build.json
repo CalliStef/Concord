@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "0BHF+c15NfMJuNDDoGJDkSKdC/gYQDJobeEMn8WedXo=",
+  "Source": "Concord",
+  "BasePath": "_content/Concord",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Concord/wwwroot",
+      "Source": "Concord",
+      "ContentRoot": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/",
+      "BasePath": "_content/Concord",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/assets/index-0e30dc8f.css",
+      "SourceId": "Concord",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/",
+      "BasePath": "_content/Concord",
+      "RelativePath": "assets/index-0e30dc8f.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-0e30dc8f.css"
+    },
+    {
+      "Identity": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/assets/index-b4909150.js",
+      "SourceId": "Concord",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/",
+      "BasePath": "_content/Concord",
+      "RelativePath": "assets/index-b4909150.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-b4909150.js"
+    },
+    {
+      "Identity": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/index.html",
+      "SourceId": "Concord",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/",
+      "BasePath": "_content/Concord",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/vite.svg",
+      "SourceId": "Concord",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/",
+      "BasePath": "_content/Concord",
+      "RelativePath": "vite.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/vite.svg"
+    }
+  ]
+}

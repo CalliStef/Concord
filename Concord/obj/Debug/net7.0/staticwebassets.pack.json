@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/assets/index-0e30dc8f.css",
+      "PackagePath": "staticwebassets/assets/index-0e30dc8f.css"
+    },
+    {
+      "Id": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/assets/index-b4909150.js",
+      "PackagePath": "staticwebassets/assets/index-b4909150.js"
+    },
+    {
+      "Id": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/callisto/Desktop/BCIT/TERM_4/MVC/Concord/Concord/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Concord.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Concord.props",
+      "PackagePath": "build\\Concord.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Concord.props",
+      "PackagePath": "buildMultiTargeting\\Concord.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Concord.props",
+      "PackagePath": "buildTransitive\\Concord.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
