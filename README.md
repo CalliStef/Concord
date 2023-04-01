@@ -1,6 +1,6 @@
 <h1> Concord - Chat App <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="40" height="40" /></h1>
 
-Concord is a **Discord-inspired** browser application that lets user to create their own profile and join different channels to chat with different people in the channel. This app was build for me to experiment and familiarize myself with some of the new tools that I have never used before. 
+Concord is a **Discord-inspired** browser application that lets user create their own profile and join different channels to chat with different people in the channel. This app was build for me to experiment and familiarize myself with some of the new tools that I have never used before. 
 
 Using the **ASP.NET** framework's library, **SignalR**, the app is able to perform real-time update CRUD functionalities for the user, messages, and the channels.
 
