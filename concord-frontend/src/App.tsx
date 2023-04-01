@@ -309,7 +309,7 @@ export default function App() {
     <div className="App flex bg-neutral-800">
       {userForm ? (
         <div className="flex w-screen h-screen justify-center items-center flex-col text-center">
-          <h1 className="mb-4">Assignment 4 & 5 - Concord</h1>
+          <h1 className="mb-4">Welcome to Concord</h1>
           <UserForm
             handleUserSubmit={handleUserSubmit}
             currentUser={currentUser}
